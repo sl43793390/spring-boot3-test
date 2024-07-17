@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/target/
+/consumer1/target/
+/provider1/target/
